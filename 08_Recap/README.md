@@ -13,15 +13,16 @@
 
 ### Viewing the Slides
 
-Open either HTML file directly in your browser:
+**Live hosted versions (recommended):**
+- [▶ Recap Presentation (interactive slides)](https://nursnaaz.github.io/zero-to-genai-engineer/08_Recap/RECAP_PRESENTATION.html)
+- [▶ Recap Slides (full text)](https://nursnaaz.github.io/zero-to-genai-engineer/08_Recap/RECAP_SLIDES.html)
+
+Or open locally in your browser:
 
 ```bash
 open RECAP_PRESENTATION.html    # macOS
 xdg-open RECAP_PRESENTATION.html  # Linux
 ```
-
-Or view the hosted version:
-- [▶ Recap Presentation (live)](https://nursnaaz.github.io/zero-to-genai-engineer/08_Recap/RECAP_PRESENTATION.html)
 
 ---
 
