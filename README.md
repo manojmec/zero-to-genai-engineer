@@ -187,7 +187,7 @@ After the notebooks, read the **[Cheat Sheet](./prereq/cheatsheet.md)** — keep
 | Enterprise LLMs | Databricks | S05 |
 | Tokenization | tiktoken | S04 |
 | Agents | LangChain · LangGraph · CrewAI | M07–M09 |
-| RAG | ChromaDB · Sentence Transformers | M05–M06 |
+| RAG | ChromaDB · Sentence Transformers | M07–M08 |
 | Production | FastAPI · Docker | M15 |
 | Observability | Langfuse | M16 |
 | Fine-tuning | Unsloth · Together AI | M18 |
